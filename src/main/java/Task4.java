@@ -1,46 +1,44 @@
 /*"4. Correct nine classes: Worker (employee), Clerk (clerk), IT (IT specialist), Programmer (programmer), ProjectManager (project manager), CTO (CTO), HR (recruiter), OfficeManager (office manager), Cleaner (cleaner).
         Inherit a programmer, project manager and technical director from an IT specialist.
         Inherit the recruiter, cleaner and office manager from the clerk.
-        Inherit the clerk and IT professional from the employee.
-public class Task {
-    public static void main(String[] args) {
+        Inherit the clerk and IT professional from the employee.*/
+public class Task4 {
+    public class Employee {
     }
 
     public class Worker {
 
     }
 
-    public class Clerk {
+    public class Clerk extends Employee{
 
     }
 
-    public class IT {
+    public class ITprofessional extends Employee {
 
     }
 
-    public class Programmer {
+    public class Programmer extends ITprofessional{
 
     }
 
-    public class ProjectManager  {
+    public class ProjectManager extends ITprofessional {
 
     }
 
-    public class CTO  {
+    public class CTO extends ITprofessional {
 
     }
 
-    public class OfficeManager  {
+    public class OfficeManager extends Clerk {
 
     }
 
-    public class HR {
+    public class HR extends Clerk {
 
     }
 
-    public class Cleaner {
+    public class Cleaner extends Clerk{
 
     }
-}"*/
-public class Task4 {
 }
