@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75fe4ceb-0a22-4fe1-ba65-e257e29d05cd" name="Default Changelist" comment="Add &quot;Boxer&quot;, &quot;Dog&quot;, &quot;Human&quot;, &quot;Printer&quot;, &quot;Task5&quot;">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="75fe4ceb-0a22-4fe1-ba65-e257e29d05cd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Boxer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Boxer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Human.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Printer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Task1Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Task2Boxer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Task3Dog.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,28 +22,43 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Task2.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Task2Boxer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="18" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="18" />
+            <state relative-caret-position="272">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#0#1205#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Task3.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Boxer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="74" selection-start-column="3" selection-end-line="4" selection-end-column="74" />
+            <state relative-caret-position="238">
+              <caret line="17" selection-end-line="36" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Task4.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Dog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-221">
-              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            <state relative-caret-position="374">
+              <caret line="31" column="5" selection-end-line="91" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Task3Dog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1020">
+              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#2180#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -60,7 +72,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Task1Human.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-471">
@@ -156,39 +168,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Printer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="97" column="25" selection-start-line="97" selection-start-column="25" selection-end-line="97" selection-end-column="25" />
-              <folding>
-                <element signature="e#1042#1043#0" expanded="true" />
-                <element signature="e#1074#1075#0" expanded="true" />
-                <element signature="e#1199#1200#0" expanded="true" />
-                <element signature="e#1237#1238#0" expanded="true" />
-                <element signature="e#1287#1288#0" expanded="true" />
-                <element signature="e#1332#1333#0" expanded="true" />
-                <element signature="e#1373#1374#0" expanded="true" />
-                <element signature="e#1413#1414#0" expanded="true" />
-                <element signature="e#1477#1478#0" expanded="true" />
-                <element signature="e#1536#1537#0" expanded="true" />
-                <element signature="e#1576#1577#0" expanded="true" />
-                <element signature="e#1615#1616#0" expanded="true" />
-                <element signature="e#1677#1678#0" expanded="true" />
-                <element signature="e#1734#1735#0" expanded="true" />
-                <element signature="e#1772#1773#0" expanded="true" />
-                <element signature="e#1809#1810#0" expanded="true" />
-                <element signature="e#1867#1868#0" expanded="true" />
-                <element signature="e#1920#1921#0" expanded="true" />
-                <element signature="e#1956#1957#0" expanded="true" />
-                <element signature="e#1991#1992#0" expanded="true" />
-                <element signature="e#2045#2046#0" expanded="true" />
-                <element signature="e#2094#2095#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -211,7 +190,6 @@
         <option value="$PROJECT_DIR$/src/main/java/Task7.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task8.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Task2.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task5.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task4.java" />
         <option value="$PROJECT_DIR$/src/main/java/Boxer.java" />
@@ -219,6 +197,9 @@
         <option value="$PROJECT_DIR$/src/main/java/Printer.java" />
         <option value="$PROJECT_DIR$/src/main/java/Human.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task1Human.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Task2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Task2Boxer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Task3Dog.java" />
       </list>
     </option>
   </component>
@@ -318,16 +299,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task1Human">
+  <component name="RunManager" selected="Application.Task3Dog">
     <configuration name="Human" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Human" />
-      <module name="lesson-004" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Printer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Printer" />
       <module name="lesson-004" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -340,9 +314,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="MAIN_CLASS_NAME" value="Task4" />
+    <configuration name="Task2Boxer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task2Boxer" />
+      <module name="lesson-004" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task3Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task3Dog" />
       <module name="lesson-004" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -356,19 +336,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Printer" />
-      <item itemvalue="Application.Task4" />
       <item itemvalue="Application.Task5" />
       <item itemvalue="Application.Human" />
       <item itemvalue="Application.Task1Human" />
+      <item itemvalue="Application.Task2Boxer" />
+      <item itemvalue="Application.Task3Dog" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task3Dog" />
+        <item itemvalue="Application.Task2Boxer" />
         <item itemvalue="Application.Task1Human" />
         <item itemvalue="Application.Human" />
         <item itemvalue="Application.Task5" />
-        <item itemvalue="Application.Printer" />
-        <item itemvalue="Application.Task4" />
       </list>
     </recent_temporary>
   </component>
@@ -397,12 +377,18 @@
       <option name="project" value="LOCAL" />
       <updated>1559753051901</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Human add">
+      <created>1559902034290</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559902034290</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="696" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17152104" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -435,7 +421,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add task 2-8" />
     <MESSAGE value="Add &quot;Boxer&quot;, &quot;Dog&quot;, &quot;Human&quot;, &quot;Printer&quot;, &quot;Task5&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add &quot;Boxer&quot;, &quot;Dog&quot;, &quot;Human&quot;, &quot;Printer&quot;, &quot;Task5&quot;" />
+    <MESSAGE value="Human add" />
+    <option name="LAST_COMMIT_MESSAGE" value="Human add" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/Java3.java" />
@@ -487,23 +474,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Boxer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-63">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-833">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#2158#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Printer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -532,20 +502,6 @@
             <element signature="e#2045#2046#0" expanded="true" />
             <element signature="e#2094#2095#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Task2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Task3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="74" selection-start-column="3" selection-end-line="4" selection-end-column="74" />
         </state>
       </provider>
     </entry>
@@ -645,6 +601,40 @@
             <element signature="e#1786#1787#0" expanded="true" />
             <element signature="e#1827#1828#0" expanded="true" />
             <element signature="e#1863#1864#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Boxer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Task2Boxer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#1205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="31" column="5" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Task3Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1020">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#2180#0" expanded="true" />
           </folding>
         </state>
       </provider>

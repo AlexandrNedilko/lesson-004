@@ -1,16 +1,16 @@
-/*Task3Dog
-* 3. Create a class Dog.
+/*"3. Create a class Dog.
         The dog should have a name and an age (private).
         Create getters and setter for all the fields."
         1) When you will be creating setters - keep in mind that
         fields shouldn't be empty and age can't be less of equals to zero.*/
+
 import java.util.Scanner;
 
-public class Dog {
+public class Task3Dog {
     private String name;
     private int age;
 
-    public Dog() {
+    public Task3Dog() {
     }
 
     public String getName() {
@@ -44,7 +44,7 @@ public class Dog {
 
     @Override
     public String toString() {
-        return "Dog{" +
+        return "Task3Dog{" +
                 "name='" + name + '\'' +
                 ", age=" + age +
                 '}';
@@ -52,9 +52,9 @@ public class Dog {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        Dog Boby= new Dog();
+        Task3Dog Boby= new Task3Dog();
         Boby.setAge(5);
-       // Boby.setName("Tad");
+        // Boby.setName("Tad");
         boolean b=true;
         do {
             System.out.println("Please enter Name of Dog...");
@@ -63,7 +63,7 @@ public class Dog {
             boolean tmp =Boby.setName(name);
             if (tmp) {
                 b = false;
-               // sc.close();
+                // sc.close();
             } else {
                 System.out.println("не может быть собака без имени, назовите как-то))");
             }
@@ -72,7 +72,7 @@ public class Dog {
         boolean b1=true;
         do {
             System.out.println("Please enter Age of Dog...");
-             sc = new Scanner(System.in);
+            sc = new Scanner(System.in);
             int age = sc.nextInt();
             boolean tmp =Boby.setAge(age);
             if (tmp) {
