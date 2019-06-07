@@ -24,9 +24,8 @@ fillUp(int tonerVolume, String color);
 print(int pages, String color, boolean isDuplex);
 tonerIsEmpty();
 getTonerLevel(String toner);
-etc."
+etc." */
 
-        */
 public class Task6Printer {
     private String manufacturer;
     private String model;
