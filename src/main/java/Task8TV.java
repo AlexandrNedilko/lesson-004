@@ -11,7 +11,9 @@
         Example of the structure in the requirements.
 
 
-        "*/
+        "*//*
+
 
 public class Task8TV {
 }
+*/
