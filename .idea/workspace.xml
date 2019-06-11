@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75fe4ceb-0a22-4fe1-ba65-e257e29d05cd" name="Default Changelist" comment="Add package task7-8 (Car&amp;TV)">
+    <list default="true" id="75fe4ceb-0a22-4fe1-ba65-e257e29d05cd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/lesson-004.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Task1Human.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Task2Boxer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Task3Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Task4$CTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Task4$Cleaner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Task4$Clerk.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Task4$Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Task4$HR.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Task4$ITprofessional.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Task4$OfficeManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Task4$Programmer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Task4$ProjectManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Task4$Worker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Task4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Task5$Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Task5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Task6Printer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Task7/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Task7/Vehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Task8/Device.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Task8/RemoteController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Task8/TVDevice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Task8/Task8TV.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Task8/Volume.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,31 +43,32 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Task6Printer.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Task8TV.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+            <state relative-caret-position="102">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Task7/JapanCar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
               <folding>
-                <element signature="e#0#7663#0" expanded="true" />
+                <element signature="e#319#320#0" expanded="true" />
+                <element signature="e#355#356#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Task8TV.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Task7/DrivingCar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="18" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Task8/TVDevice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -68,7 +94,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Task8/Task8TV.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="573">
+            <state relative-caret-position="680">
               <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
               <folding>
                 <element signature="e#565#566#0" expanded="true" />
@@ -92,7 +118,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/Task8/RemoteController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -102,41 +128,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
               <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding>
-                <element signature="e#1426#1427#0" expanded="true" />
-                <element signature="e#1466#1467#0" expanded="true" />
-                <element signature="e#1497#1498#0" expanded="true" />
-                <element signature="e#1524#1525#0" expanded="true" />
-                <element signature="e#1555#1556#0" expanded="true" />
-                <element signature="e#1582#1583#0" expanded="true" />
-                <element signature="e#1621#1622#0" expanded="true" />
-                <element signature="e#1659#1660#0" expanded="true" />
-                <element signature="e#1699#1700#0" expanded="true" />
-                <element signature="e#1738#1739#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Task7/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="e#368#369#0" expanded="true" />
-                <element signature="e#404#405#0" expanded="true" />
-                <element signature="e#462#463#0" expanded="true" />
-                <element signature="e#512#513#0" expanded="true" />
-                <element signature="e#766#767#0" expanded="true" />
-                <element signature="e#822#823#0" expanded="true" />
-                <element signature="e#1018#1019#0" expanded="true" />
-                <element signature="e#1045#1046#0" expanded="true" />
-                <element signature="e#1080#1081#0" expanded="true" />
-                <element signature="e#1108#1109#0" expanded="true" />
-                <element signature="e#1153#1154#0" expanded="true" />
-                <element signature="e#1201#1202#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -144,8 +144,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Task7Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="43" column="20" lean-forward="true" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+            <state relative-caret-position="139">
+              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -189,15 +189,17 @@
         <option value="$PROJECT_DIR$/src/main/java/Task6.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task6Printer.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task7.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Task7/Vehicle.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task8TV.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task8/TVDevice.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task8/Device.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task8/Volume.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task8/Task8TV.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task8/RemoteController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Task7/Car.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task7Car.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Task7/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Task7/Car.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Task7/JapanCar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Task7/DrivingCar.java" />
       </list>
     </option>
   </component>
@@ -238,6 +240,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -289,7 +292,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -299,7 +301,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="ics" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -313,7 +315,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task7Car">
+  <component name="RunManager" selected="Application.RemoteController">
+    <configuration name="DrivingCar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task7.DrivingCar" />
+      <module name="lesson-004" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RemoteController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task8.RemoteController" />
       <module name="lesson-004" />
@@ -323,13 +338,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task2Boxer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task2Boxer" />
-      <module name="lesson-004" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -356,19 +364,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Task2Boxer" />
       <item itemvalue="Application.Task3Dog" />
       <item itemvalue="Application.Task6Printer" />
       <item itemvalue="Application.Task7Car" />
       <item itemvalue="Application.RemoteController" />
+      <item itemvalue="Application.DrivingCar" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task7Car" />
         <item itemvalue="Application.RemoteController" />
+        <item itemvalue="Application.DrivingCar" />
+        <item itemvalue="Application.Task7Car" />
         <item itemvalue="Application.Task6Printer" />
         <item itemvalue="Application.Task3Dog" />
-        <item itemvalue="Application.Task2Boxer" />
       </list>
     </recent_temporary>
   </component>
@@ -439,7 +447,14 @@
       <option name="project" value="LOCAL" />
       <updated>1560198609192</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add package task7-8 (Car&amp;TV)">
+      <created>1560198698635</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1560198698635</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -455,7 +470,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17750533" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11886994" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -464,7 +479,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29035753" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42903575" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -592,17 +607,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Task8TV.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="18" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Task8/TVDevice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -622,7 +630,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Task8/Task8TV.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
+        <state relative-caret-position="680">
           <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
           <folding>
             <element signature="e#565#566#0" expanded="true" />
@@ -644,14 +652,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Task8/RemoteController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Task7Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="43" column="20" lean-forward="true" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -676,8 +677,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Task7/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding>
             <element signature="e#368#369#0" expanded="true" />
             <element signature="e#404#405#0" expanded="true" />
@@ -692,6 +693,38 @@
             <element signature="e#1153#1154#0" expanded="true" />
             <element signature="e#1201#1202#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Task7Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Task8TV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Task7/JapanCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Task7/DrivingCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
